@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**PaquierThomas/PaquierThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/PaquierThomas/Portfolio" title="Porfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PaquierThomas&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/PaquierThomas/PROJETS6" title="Enshrouded Encounter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PaquierThomas&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/PaquierThomas/MMI3_Signaletique_ProjetS5" title="Campus interactive map"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PaquierThomas&repo=MMI3_Signaletique_ProjetS5&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/PaquierThomas/card" title="Business Card portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PaquierThomas&repo=card&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">
+  <a href="https://github.com/PaquierThomas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
