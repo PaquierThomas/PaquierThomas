@@ -1,4 +1,4 @@
-<h2 align="center"> Freelance 3D Artist and Web Developer </h2>
+<h2 align="center"> Freelance Developer Full-Stack and 3D artist </h2>
 <br/>
 
 
